@@ -16,6 +16,6 @@ Throughout my career, I've joined numerous startups, served as a founding engine
 
 I occasionally document my journey on [fua.ad/blog](https://fua.ad/blog). It's a personal journal—sometimes random, sometimes technical, sometimes philosophical—but always honest. I also run a newsletter which you can subscribe to here: [fua.ad/newsletter](fua.ad/newsletter)
 
-## Reach out
+## 🤙 Reach out
 
 Want to get connected? Just shoot me an email here: hey@fua.ad or book a meeting with me here: [fua.ad/contact](fua.ad/contact)
