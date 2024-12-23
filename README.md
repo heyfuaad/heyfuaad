@@ -18,4 +18,4 @@ I occasionally document my journey on [fua.ad/blog](https://fua.ad/blog). It's a
 
 ## Reach out
 
-Want to get connected? Just shoot me an email here: hey@fua.ad or book a meeting with me here: https://fu.ad/contact
+Want to get connected? Just shoot me an email here: hey@fua.ad or book a meeting with me here: fua.ad/contact
