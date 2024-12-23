@@ -14,7 +14,7 @@ Throughout my career, I've joined numerous startups, served as a founding engine
 
 ## ✍️ Writings
 
-I occasionally document my journey on [naf.is](https://fua.ad). It's a personal journal—sometimes random, sometimes technical, sometimes philosophical—but always honest. 
+I occasionally document my journey on [fua.ad](https://fua.ad). It's a personal journal—sometimes random, sometimes technical, sometimes philosophical—but always honest. 
 
 ## Reach out
 
