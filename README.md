@@ -1,7 +1,5 @@
 # Hey, I'm Fuaad 👋
 
-**Software Product Engineer | 7+ years in Web | Built and led an influencer marketing platform with 300M+ influencers | Scaled $250M+ GMV pharma marketplace | Going full AI now, duh**
-
 I'm a software product engineer working on the intersection of AI & the Internet. Over the last 7 years I have:
 
 → engineered at a social crowdfunding platform that raised $680M+ to date
