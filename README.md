@@ -2,10 +2,10 @@
 
 I'm a software product engineer working on the intersection of AI & the Internet. Over the last 7 years I have:
 
-→ engineered at a social crowdfunding platform that raised $680M+ to date
-→ built and led an influencer marketing platform with 300M+ influencers
-→ scaled a $250M+ GMV pharma marketplace serving 10k+ companies
-→ built 10+ SaaS products and mobile apps
+- engineered at a social crowdfunding platform that raised $680M+ to date
+- built and led an influencer marketing platform with 300M+ influencers
+- scaled a $250M+ GMV pharma marketplace serving 10k+ companies
+- built 10+ SaaS products and mobile apps
 
 My coding journey started in high school, fueled by a passion to take on challenges beyond the standard curriculum. I began with freelance web development for local businesses, which soon evolved into building web apps, collaborating with agencies, and eventually launching my own SaaS products.
 
