@@ -1,21 +1,22 @@
 # Hey, I'm Fuaad 👋
 
-**Software Product Engineer | 7+ years in Web | Built and led at top influencer marketing platform | Scaled $250M+ GMV pharma marketplace | Going full AI now, duh**
+**Software Product Engineer | 7+ years in Web | Built and led an influencer marketing platform with 300M+ influencers | Scaled $250M+ GMV pharma marketplace | Going full AI now, duh**
 
-Over the past 7+ years, I've:
+I'm a software product engineer working on the intersection of AI & the Internet. Over the last 7 years I have:
 
-- **Led Engineering** at [Creable](https://creable.com), the largest influencer marketing platform.
-- **Scaled** a $250M+ GMV pharma marketplace at [Pipelinepharma](https://pipelinepharma.com).
-- **Built** several SaaS products as a solo founder
+→ engineered at a social crowdfunding platform that raised $680M+ to date
+→ built and led an influencer marketing platform with 300M+ influencers
+→ scaled a $250M+ GMV pharma marketplace serving 10k+ companies
+→ built 10+ SaaS products and mobile apps
 
-My coding journey began in high school, driven by a desire to tackle challenges beyond the traditional curriculum. Starting with freelance web development for local businesses, I transitioned to building web apps, collaborated with various agencies, and eventually ventured into creating my own SaaS products.
+My coding journey started in high school, fueled by a passion to take on challenges beyond the standard curriculum. I began with freelance web development for local businesses, which soon evolved into building web apps, collaborating with agencies, and eventually launching my own SaaS products.
 
-Throughout my career, I've joined numerous startups, served as a founding engineer, and led engineering teams, collaborating with remarkable individuals along the way.
+I’ve worked with numerous startups, taken on roles as a founding engineer, led engineering teams, and collaborated with some truly inspiring individuals.
 
-## ✍️ Writings
+*✍️ Writings*
 
 I occasionally document my journey on [fua.ad/blog](https://fua.ad/blog). It's a personal journal—sometimes random, sometimes technical, sometimes philosophical—but always honest. I also run a newsletter which you can subscribe to here: [fua.ad/newsletter](fua.ad/newsletter)
 
-## 🤙 Reach out
+*🤙 Reach out*
 
 Want to get connected? Just shoot me an email here: hey@fua.ad or book a meeting with me here: [fua.ad/contact](fua.ad/contact)
